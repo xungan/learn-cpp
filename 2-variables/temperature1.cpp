@@ -2,7 +2,7 @@
 
 int main() {
   
-  double tempf = 83.0;
+  double tempf = 23.0;
   double tempc;
   
   tempc = (tempf - 32) / 1.8;
